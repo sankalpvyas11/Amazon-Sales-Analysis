@@ -1,5 +1,12 @@
 # Amazon Sales Dashboard
 
+![Amazon Sales Analysis_page-0001](https://github.com/user-attachments/assets/3d6f46bb-afe9-45bf-8f76-fc8aa6bb2f9b)
+Sales Analysis for Products sold on Amazon
+
+![Amazon Sales Analysis_page-0002](https://github.com/user-attachments/assets/3a18f143-7dfb-4c27-be81-4a1dc1667c3a)
+Sales Analysis for Amazon Prime
+
+
 ## Problem Statement:
 
 ### Background: 
